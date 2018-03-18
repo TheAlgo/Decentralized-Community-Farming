@@ -30,6 +30,7 @@ This idea will always keep the cash flow in the agriculture industry and farmers
 - Ethereum SDK 
 - Angular JS
 - Docker
+- Hasura
 
 # contribution and local developement 
 
