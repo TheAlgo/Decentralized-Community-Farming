@@ -31,7 +31,7 @@ This idea will always keep the cash flow in the agriculture industry and farmers
 - Angular JS
 - Docker
 
-# contribution and local developemnt 
+# contribution and local developement 
 
 - 'npm install'
 - 'npm run dev'
