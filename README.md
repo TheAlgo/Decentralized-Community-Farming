@@ -9,7 +9,7 @@ Despite the fact that agriculture accounts for as much as a quarter of the India
 ![framework](https://drive.google.com/file/d/1IlAv71SGDj0hNUSoo_fV3QlA2Z92de4J/view?usp=sharing) 
 
 This is the wireframe of our platform where we try to bring in everyone starting right from the investor which can be you to the farmer to the shareholder and even the panchayat and the people who are selling it to retail or the wholesale.
-So how does it work?
+So talking about the working!
 Using this platform is very simple. 
 - Shareholder/ Investor - sure, you want to invest in the agricultural ecosystem and looking for a return.The strategy is simple you invest in any of the given community with a percentage of stake you want to buy and keep it just like normal investment in any company. With the growth in agricultural yield and community development the price of the stock increase and then it’ your choice to hold it or sell it.
 - Farmer - you have some land (be a part of a community). What it takes you may ask? You have to have your identification card and your asset details of your land and some proprietary details of what you grow and that's all about it.  
