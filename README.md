@@ -39,6 +39,5 @@ This idea will always keep the cash flow in the agriculture industry and farmers
 
 - to contribute please follow open source contribution guide.
 
-# Weblink
 
 
